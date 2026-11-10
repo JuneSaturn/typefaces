@@ -1,2 +1,4 @@
-# typefaces
-Custom typefaces and lettering experiments
+# Typefaces Project
+👷🏻‍♂️ Work in Progress\
+
+Copyright © 2026 June Saturn. All rights reserved.
